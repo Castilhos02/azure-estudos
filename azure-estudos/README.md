@@ -1,6 +1,6 @@
 # 🌩️ Estudos sobre Microsoft Azure
 
-Este repositório foi criado como parte do **desafio prático** do curso de Bacharelado em Tecnologia da Informação. Ele serve como um **guia de estudos introdutório sobre a plataforma Microsoft Azure**, com foco em conceitos fundamentais de computação em nuvem, modelos de serviço (IaaS, PaaS, SaaS), comandos básicos e links úteis para referência.
+Este repositório foi criado como parte do **desafio prático** do curso de Bacharelado em Tecnologia da Informação - atividades complementares, sendo parte do Bootcamp da DIO. Ele serve como um **guia de estudos introdutório sobre a plataforma Microsoft Azure**, com foco em conceitos fundamentais de computação em nuvem, modelos de serviço (IaaS, PaaS, SaaS), comandos básicos e links úteis para referência.
 
 ---
 
@@ -46,9 +46,5 @@ Este repositório foi desenvolvido como um projeto prático, com foco no aprendi
 
 ---
 
-📄 Autor: Aluno do 1º ano do Bacharelado em Tecnologia da Informação
-
-💡 Dica: se quiser clonar este repositório, use:
-```bash
-git clone https://github.com/SEU-USUARIO/azure-estudos.git
+📄 Autor: Douglas Castilho da Silva
 ```
